@@ -1,0 +1,5 @@
+SUCCESS = "success"
+FAILURE = "failure"
+TRIGGERED = "triggered"
+CREATED = "created"
+DELETED = "deleted"
